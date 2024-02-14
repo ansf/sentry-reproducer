@@ -1,0 +1,12 @@
+{
+  "name": "reproducer",
+  "scripts": {
+    "compile": "tsc -p ."
+  },
+  "dependencies": {
+    "@sentry/browser": "7.93.0"
+  },
+  "devDependencies": {
+    "typescript": "5.3.3"
+  }
+}
